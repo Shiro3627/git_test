@@ -1,2 +1,2 @@
 # git_test
-Teesting a new setup
+Testing a new setup
